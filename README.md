@@ -1,3 +1,3 @@
 # Solutions to all problems on Codingbat
 
-This repository contains solutions to all Python coding challenges on [Coding Bat](https://codingbat.com/python). Solutions are given as functions and all passed checks on the website. The coding problems range in different levels of difficulty, and appear particularly suitable for those looking to strengthen their Python skills.
+This repository contains solutions to all Python coding challenges on [Coding Bat](https://codingbat.com/python). Solutions are given as functions and all passed checks on the website. The coding problems range in different levels of difficulty, and appear particularly suitable for those looking to strengthen their Python skills. Most problems on Codingbat do not allow the use of print or import or eval, while for some other codes execution time is constrained such that loops are not allowed. This makes for intelligent use of basic resources in achieving coding objectives.
